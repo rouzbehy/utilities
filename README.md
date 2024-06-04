@@ -5,3 +5,5 @@ Some Python scripts and Jupyter notebooks that I used in the plotting of my resu
 - `cujet_vs_martini/` : folder for the _CUJET_ vs. _MARTINI_ study. This also includes some of the Python binning and analysis scripts.
 
 - `kernels/` : has the scripts and notebooks for the kernels study. It also has the GPR work.
+
+- `mains/` : folder for the source code that generated the events. These are C++ programs for generating events using _JETSCAPE_ or for _MARTINI_ in stand-alone mode.
